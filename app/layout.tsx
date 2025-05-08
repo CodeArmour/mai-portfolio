@@ -34,7 +34,7 @@ export default function RootLayout({
           property="og:description"
           content="Creating beautiful and performant web applications with Laravel & React."
         />
-        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:image" content="/mailogo_og_1200x630.png" />
         <meta property="og:url" content="https://yourdomain.com" />
         <meta property="og:type" content="website" />
 
