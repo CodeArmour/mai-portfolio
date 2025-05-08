@@ -20,7 +20,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/mailogoprbg.png" type="image/png" />
+        <link rel="apple-touch-icon" href="/mailogoprbg.png" />
+      </head>
       <body>{children}</body>
     </html>
   )
 }
+
