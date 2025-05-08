@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   icons: {
     icon: "/mailogoprbg.png",
     shortcut: "/mailogorbg.png",
-    apple: "/mailogorbg.png",
+    apple: "/mailogoprbg.png",
   },
   openGraph: {
     title: "Mai Al Moqayad – Full-Stack Developer",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     url: "https://mai-portfolio-eta.vercel.app/",
     images: [
       {
-        url: "/mailogoprbg_1200x630.png",
+        url: "/mailogoprbg.png",
         width: 1200,
         height: 630,
         alt: "Mai Portfolio Logo",
